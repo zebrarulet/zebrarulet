@@ -26,9 +26,47 @@ Data Scientist | 23 года | Преобразовываю данные в це
 
 ### 💡 Образование: 💡
 
-* [СПбГАСУ] Неоконченное высшее образование по специальности строительство.
-* [Data Scientist с нуля до PRO], Skillfactory [25.12.2024].
+* [Data Scientist с нуля до PRO], Skillfactory [25.06.2025].
 
 ### 🌟 Контактная информация 🌟
 [@zebra_rulet] Telegram
+[https://github.com/zebrarulet] GitHub
+
+
+---
+
+
+### Hi! My name is Kirill 👋
+
+Data Scientist | 23 years old | Transforming data into valuable business insights.
+
+### ✨ About Me ✨
+
+Highly motivated and results-oriented Data Science professional, eager to transform complex data into actionable strategies. While transitioning from a people-focused background, I bring a unique perspective honed through 6+ months of intensive training at Skillfactory, and a strong understanding of the importance of effective communication and collaboration within data science teams. I’m ready to apply my acquired skills in machine learning, data visualization, and statistical analysis to drive data-informed decisions and contribute to business growth. I excel at identifying patterns and insights that others may miss, enabling innovative solutions to complex challenges.
+
+### 📚 Projects 📚
+
+[Link to my GitHub Projects](https://github.com/zebrarulet/zebrarulet)
+
+### 📈 Skills 📈
+
+* **Data Analysis and Visualization:** Statistical Analysis (t-tests, ANOVA, Regression), Hypothesis Testing, Data Storytelling, Creating effective visualizations using Matplotlib and Seaborn.
+* **Machine Learning:** Supervised Learning (Linear Regression, Logistic Regression, Random Forest), Unsupervised Learning (K-Means Clustering, PCA), Model Evaluation and Tuning.
+* **Data Processing and Management:** Data Cleaning, Feature Engineering, Data Manipulation with Pandas and NumPy, SQL (PostgreSQL, MySQL).
+* **Programming and Tools:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, Git, sklearn.
+* **Communication and Collaboration:** Active Listening, Effective Communication, Teamwork, Problem Solving, Ability to convey complex technical results to non-technical audiences.
+
+### ⚡️ Goals and Aspirations ⚡️
+
+* Seeking a Junior Data Scientist position.
+* Currently deepening my knowledge in Deep Learning techniques and actively participating in open-source data analysis projects to gain practical experience.
+* Eager to apply my skills and contribute to the growth of a data science team.
+
+### 💡 Education 💡
+
+* [Data Scientist from Zero to PRO], Skillfactory [Graduation: June 25, 2025].
+
+### 🌟 Contact Information 🌟
+
+[@zebra_rulet] Telegram 
 [https://github.com/zebrarulet] GitHub
