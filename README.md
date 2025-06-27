@@ -8,7 +8,7 @@ Data Scientist | 23 года | Преобразовываю данные в це
 
 ### 📚 Проекты 📚
 
-[Ссылка на мои проеткы GitHub](https://github.com/zebrarulet/zebrarulet)
+[Ссылка на мои проеткы GitHub](https://github.com/zebrarulet)
 
 ### 📈 Навыки и умения 📈
 
@@ -46,7 +46,7 @@ Highly motivated and results-oriented Data Science professional, eager to transf
 
 ### 📚 Projects 📚
 
-[Link to my GitHub Projects](https://github.com/zebrarulet/zebrarulet)
+[Link to my GitHub Projects](https://github.com/zebrarulet)
 
 ### 📈 Skills 📈
 
