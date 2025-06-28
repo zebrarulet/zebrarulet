@@ -8,7 +8,17 @@ Data Scientist | 23 года | Преобразовываю данные в це
 
 ### 📚 Проекты 📚
 
-[Ссылка на мои проеткы GitHub](https://github.com/zebrarulet)
+1. **Анализ резюме HeadHunter** | [headhunter_resume_analysis](https://github.com/zebrarulet/headhunter_resume_analysis)
+
+   Python (Pandas, NumPy), Seaborn, Plotly, EDA
+    - Обработал 44,7 тыс. записей: нормализация текста, категоризация городов, анализ аномалий
+    - Построил 15+ визуализаций (тепловые карты, диаграммы рассеяния)
+    - Сформулировал рекомендации для HR по приоритетным кандидатам
+  
+    *Результат:*
+    - Двукратная разница в зарплате между московскими и региональными кандидатами
+    - Высшее образование коррелирует с ожиданиями по зарплате +30%
+    - Готовность к переезду увеличивает медианную зарплату на 15–20%
 
 ### 📈 Навыки и умения 📈
 
@@ -29,8 +39,8 @@ Data Scientist | 23 года | Преобразовываю данные в це
 * [Data Scientist с нуля до PRO], Skillfactory [25.06.2025].
 
 ### 🌟 Контактная информация 🌟
-[@zebra_rulet] Telegram
-[https://github.com/zebrarulet] GitHub
+- [@zebra_rulet] Telegram
+- [https://github.com/zebrarulet] GitHub
 
 
 ---
@@ -46,7 +56,26 @@ Highly motivated and results-oriented Data Science professional, eager to transf
 
 ### 📚 Projects 📚
 
-[Link to my GitHub Projects](https://github.com/zebrarulet)
+1. HeadHunter Resume Analysis | [headhunter_resume_analysis](https://github.com/zebrarulet/headhunter_resume_analysis)
+
+    Python (Pandas, NumPy), Seaborn, Plotly, EDA
+
+    - Processed 44.7K records: text normalization, city categorization, anomaly detection
+    - Created 15+ visualizations (heatmaps, scatter plots, box plots)
+    - Developed data-driven hiring recommendations for HR teams
+
+    *Key findings:*
+    - 2x salary difference between Moscow and regional candidates
+    - Higher education correlates with +30% salary expectations
+    - Willingness to relocate increases median salary by 15-20%
+
+Alternative version focusing on technical aspects:
+
+Implemented automated data cleaning pipeline (handled 161 duplicates, 168 missing values)
+
+Engineered features: city tiers, experience in months, education levels
+
+Identified salary patterns through statistical analysis (p-value < 0.05)
 
 ### 📈 Skills 📈
 
@@ -68,5 +97,5 @@ Highly motivated and results-oriented Data Science professional, eager to transf
 
 ### 🌟 Contact Information 🌟
 
-[@zebra_rulet] Telegram 
-[https://github.com/zebrarulet] GitHub
+- [@zebra_rulet] Telegram 
+- [https://github.com/zebrarulet] GitHub
