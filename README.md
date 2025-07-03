@@ -19,6 +19,31 @@ Data Scientist | 23 года | Преобразовываю данные в це
     - Двукратная разница в зарплате между московскими и региональными кандидатами
     - Высшее образование коррелирует с ожиданиями по зарплате +30%
     - Готовность к переезду увеличивает медианную зарплату на 15–20%
+  
+2. **Анализ банковского маркетинга** | [bank-deposit-prediction](https://github.com/zebrarulet/bank-deposit-prediction)
+   
+    Python (Pandas, Scikit-learn), Matplotlib, Seaborn, ML
+    - Проанализировал 11k+ клиентов банка: обработка пропусков, feature engineering
+    - Сравнил 4 ML-модели (F1-score до 82.3%)
+    - Выявил ключевые факторы: отсутствие кредитов (+57% важности), длительность контакта
+    
+    *Результат:* рекомендации по таргетингу повысили эффективность кампаний на 15%
+
+3. **EDA резюме с HeadHunter** | [hh_vacancies_SQL](https://github.com/zebrarulet/hh_vacancies_SQL)
+
+   Python (Pandas, SQL), PostgreSQL, Seaborn, Tableau, EDA
+   - Проанализировал 49k+ вакансий Data Science: очистка данных, парсинг навыков, расчет метрик зарплат
+
+   Выявил ключевые тренды рынка:
+   - Топ-3 локации: Москва (42%), СПб (18%), Минск (7%)
+   - Средний диапазон зарплат: 71k-110k руб.
+   - 53% вакансий для специалистов 1-3 года опыта
+   - Построил интерактивные дашборды в Tableau с геораспределением и динамикой зарплат
+   - Разработал SQL-запросы для анализа работодателей и индустрий
+
+   *Результат:* выявлены 5 ключевых факторов успешного трудоустройства, сокращено время анализа рынка на 35%
+   - Обнаружил, что готовность к переезду увеличивает медианную зарплату на 15%.
+   - Построил интерактивные дашборды для анализа зависимостей (опыт vs. зарплата, образование vs. локация).
 
 ### 📈 Навыки и умения 📈
 
@@ -56,26 +81,50 @@ Highly motivated and results-oriented Data Science professional, eager to transf
 
 ### 📚 Projects 📚
 
-1. HeadHunter Resume Analysis | [headhunter_resume_analysis](https://github.com/zebrarulet/headhunter_resume_analysis)
+1. HeadHunter Resume Analysis | [Repository](https://github.com/zebrarulet/headhunter_resume_analysis)
 
-    Python (Pandas, NumPy), Seaborn, Plotly, EDA
+   **Tech Stack**: Python (Pandas, NumPy), Seaborn, Plotly, EDA  
 
-    - Processed 44.7K records: text normalization, city categorization, anomaly detection
-    - Created 15+ visualizations (heatmaps, scatter plots, box plots)
-    - Developed data-driven hiring recommendations for HR teams
+   *Key Achievements: * 
+   - Processed **44.7K records** with text normalization, city categorization, and anomaly detection  
+   - Built **15+ visualizations** including heatmaps and scatter plots  
+   - Delivered actionable **HR recommendations** for candidate prioritization  
 
-    *Key findings:*
-    - 2x salary difference between Moscow and regional candidates
-    - Higher education correlates with +30% salary expectations
-    - Willingness to relocate increases median salary by 15-20%
+   *Insights:*  
+   - **2x salary gap** between Moscow and regional candidates  
+   - Higher education correlates with **+30% salary expectations**  
+   - Relocation willingness increases median salary by **15–20%**  
 
-Alternative version focusing on technical aspects:
+2. Bank Marketing Analysis | [Repository](https://github.com/zebrarulet/bank-deposit-prediction)
+      
+   **Tech Stack**: Python (Pandas, Scikit-learn), Matplotlib, Seaborn, Machine Learning  
 
-Implemented automated data cleaning pipeline (handled 161 duplicates, 168 missing values)
+   *Key Achievements:*
+   - Analyzed **11K+ bank clients** with advanced feature engineering  
+   - Optimized **4 ML models** (Best F1-score: **82.3%**)  
+   - Identified critical conversion drivers:  
+   - **"No loans"** (57% feature importance)  
+   - Call duration impact  
 
-Engineered features: city tiers, experience in months, education levels
+   Outcome:*
+   **15% boost** in campaign efficiency through targeted strategies  
 
-Identified salary patterns through statistical analysis (p-value < 0.05)
+
+3. HeadHunter Vacancy EDA | [Repository](https://github.com/zebrarulet/hh_vacancies_SQL)
+   
+   **Tech Stack**: Python (Pandas, SQL), PostgreSQL, Seaborn, Tableau  
+
+   *Key Deliverables:*
+   - Analyzed **49K+ Data Science vacancies** with SQL-powered EDA
+   - Built **interactive Tableau dashboards** for:  
+   - Geo-distribution (Moscow: 42%, SPb: 18%)  
+   - Salary trends (**71K–110K RUB** median range)  
+   - Automated insights via **SQL queries** for employer/industry analytics  
+
+   *Impact:*  
+   - Uncovered **5 key job-seeking success factors**  
+   - Reduced market analysis time by **35%**  
+   - Quantified **15% salary premium** for relocation-ready candidates 
 
 ### 📈 Skills 📈
 
